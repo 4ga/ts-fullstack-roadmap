@@ -18,7 +18,9 @@
     "dev:p03": "npm -w @phase1/p03 run dev",
     "test:p03": "npm -w @phase1/p03 run test",
     "dev:p04": "npm -w @phase1/p04 run dev",
-    "test:p04": "npm -w @phase1/p04 run test"
+    "test:p04": "npm -w @phase1/p04 run test",
+    "dev:p05": "npm -w @phase1/p05 run dev",
+    "test:p05": "npm -w @phase1/p05 run test"
   },
   "keywords": [],
   "author": "",
